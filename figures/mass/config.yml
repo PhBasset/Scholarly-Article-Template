@@ -1,7 +1,7 @@
 ---
 version: 2
 multicolumn: false
-web-width: '100'
+web-width: '300'
 export-width: 
 align: center
 float: h!
